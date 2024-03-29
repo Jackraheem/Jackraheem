@@ -1,6 +1,6 @@
 <!-- Level 1 : sample bio and status-->
 
-### Hi, I'm jackraheem!
+### Hi, I'm jackraheem!👋
 
 👨‍💻 Software Engineer Sharing about my journey and learning in tech<br/>
 👨‍🎓 Studied [Computer Science](https://youtu.be/9rGFhEnLhIU?si=m6J7RQMpzYaaOTfv) at the A1 Global institute of engineering college [JNTUK University] <br/>
