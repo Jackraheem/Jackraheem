@@ -1,16 +1,16 @@
-### Hi there 👋
+<!-- Level 1 : sample bio and status-->
 
-<!--
-**Jackraheem/Jackraheem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm jackraheem!
 
-Here are some ideas to get you started:
+👨‍💻 Software Engineer Sharing about my journey and learning in tech<br/>
+👨‍🎓 Studied [Computer Science](https://youtu.be/9rGFhEnLhIU?si=m6J7RQMpzYaaOTfv) at the A1 Global institute of engineering college [JNTUK University] <br/>
+🤹‍♂️ my skills are React.js, (HTML,CSS,JS) MERN Stack<br/>
+ 😎# Here my [portfolio](https://jackraheem.github.io/portfolio1/#skills) .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackraheem&show_icons=true&bg_color=00000000)
+
+
+
+
+
